@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-![Credit Card Fraud Detection Dashboard].(Creditcard-dashboard.png)
+![Credit Card Fraud Dashboard](./Creditcard-dashboard.png)
 
 📊 Overview :-
 
