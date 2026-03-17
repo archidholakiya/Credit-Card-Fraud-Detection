@@ -1,4 +1,6 @@
 # Credit-Card-Fraud-Detection
+![Credit Card Fraud Detection Dashboard].(Creditcard-dashboard.png)
+
 📊 Overview :-
 
 This dashboard provides a comprehensive view of fraud patterns, helping analysts identify:
